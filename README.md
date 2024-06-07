@@ -1,4 +1,4 @@
-# README do Projeto: Ebook "Impactos da IA Generativa no Dia a Dia da Sociedade e no Futuro"
+# Projeto: Ebook "Impactos da IA Generativa no Dia a Dia da Sociedade e no Futuro"
 
 ## Descrição do Projeto
 
