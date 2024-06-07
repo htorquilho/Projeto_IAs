@@ -1,19 +1,25 @@
 # Impactos da IA Generativa no dia a dia da sociedade e no futuro 🌌
 
+
 ## 📒 Descrição
 Este e-book de 5 páginas explora o impacto revolucionário das IAs Generativas no nosso dia a dia e como elas moldarão o futuro.
+
 
 ## 🤖 Tecnologias Utilizadas
 - IA Generativa **[ChatGPT](https://chat.openai.com)**;
 
+
 ## 🧐 Processo de Criação
 Com base nas técnicas de "Engenharia de Prompt", utilizei o "ChatGPT" para criar o conteúdo completo de um pequeno e-book, procurando dar total liberdade criativa a ele.
+
 
 ## 🚀 Resultados
 O e-book apresenta um conteúdo bastante interessante, demonstrando como as IAs Genativas podem ser uma ferramenta poderosa na educação e na disseminação do conhecimento.
 
 
+
 ## Segue abaixo o e-book
+
 
 
 
